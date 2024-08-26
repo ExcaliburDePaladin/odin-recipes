@@ -1,11 +1,17 @@
 body {
-    background-color: aquamarine;
+    background-color: #fff;
 }
-h1 {
+.heading {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: lighter;
-    color: brown;
+    color: #fff;
+    background-color: black;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 .title {
-    color: brown;
+    color: black;
+    margin: 32px 8px;
 }
